@@ -20,7 +20,7 @@
     "ext-curl": "*",
     "ext-json": "*",
     "ext-mbstring": "*",
-    "figachoco/core": "^1.0"
+    "figachoco/core": "dev-master"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.8",
